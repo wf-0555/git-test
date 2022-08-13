@@ -8,5 +8,6 @@ public class test {
         System.out.println("hello");
         List<Integer> list=new ArrayList<>();
         System.out.println(list);
+        System.out.println("2222");
     }
 }
