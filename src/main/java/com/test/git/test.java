@@ -11,5 +11,6 @@ public class test {
         System.out.println("2222");
         System.out.println("master-change");
         System.out.println("hot-fix");
+        System.out.println("git");
     }
 }
